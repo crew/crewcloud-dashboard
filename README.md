@@ -55,4 +55,4 @@ bundle exec rspec spec/my_spec.rb:25
 ```
 
 ## Documentation
-Visit the [wiki](https://github.com/crew/openstack-dashboard/wiki)
+Visit the [wiki](https://github.com/crew/crewcloud-dashboard/wiki)
