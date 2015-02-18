@@ -22,7 +22,7 @@ We Recommend using Sublime Text 3 or RubyMine when developing
 
 ### Goals
 
-* Develop a Dashboard that successfully wraps OpenStack and provides a much more intuative user interface than Horizon.  See [DigitalOcean](https://cloud.digitalocean.comm
+* Develop a Dashboard that successfully wraps OpenStack and provides a much more intuative user interface than Horizon.  See [DigitalOcean](https://cloud.digitalocean.com)
 
 * Add Functionality to transfer ownership of Instances by a student to in essence "Submit" a VM to a teacher for grading
 * Add Functionality to allow Students to quickly and easily spin up prebuilt servers for
