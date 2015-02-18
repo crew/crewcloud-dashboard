@@ -55,4 +55,5 @@ bundle exec rspec spec/my_spec.rb:25
 ```
 
 ## Documentation
+Managed On [Trello](https://trello.com/b/WJ02ddqh)
 Visit the [wiki](https://github.com/crew/crewcloud-dashboard/wiki)
